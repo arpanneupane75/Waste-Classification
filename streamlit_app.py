@@ -14,7 +14,7 @@ st.write("Upload an image to predict the waste category")
 def load_waste_model(model_path):
     return load_model(model_path)
 
-model_path = "/Users/arpanneupane75/Downloads/Intern2/waste-classification/garbage_classification_model_inception.h5"
+model_path = "garbage_classification_model_inception.h5"
 model = load_waste_model(model_path)
 
 # Define categories
