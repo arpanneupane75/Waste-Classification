@@ -1,0 +1,30 @@
+# Core deep learning
+tensorflow
+
+# Image preprocessing
+Pillow
+numpy
+scipy
+scikit-image
+
+# Model explainability
+shap
+lime
+
+# Web frameworks
+flask
+streamlit
+
+# Plotting & visualization
+matplotlib
+seaborn
+
+# Optional for advanced data manipulation
+pandas
+
+# OpenCV for video/image processing
+opencv-python
+
+# For efficient file handling
+requests
+tqdm
