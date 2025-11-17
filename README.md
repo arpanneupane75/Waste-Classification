@@ -13,6 +13,12 @@ This project implements an intelligent waste classification system capable of re
 The final and only model used in this system is a **fine-tuned InceptionV3** deep learning architecture.  
 The web interface is built using **Streamlit**, and all predictions are handled through a **Flask backend API**.
 
+--- 
+## 🌐 Live Demo
+
+Check out the live app here:  
+[**Waste Classification App**](https://wasteclassification123.streamlit.app/)
+
 ---
 
 ## 🔄 Workflow
